@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPD Wizard - Surge Protection Device Selector</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="Assets/Alltec_Logo_RGB.png" alt="Alltec Logo" class="company-logo">
+                </div>
+                <div class="title-section">
+                    <h1>SPD Wizard</h1>
+                </div>
+                <button class="info-btn" id="infoBtn" title="SPD Terms & Definitions">
+                    <i class="fas fa-info-circle"></i>
+                    <span class="info-btn-text">Info</span>
+                </button>
+            </div>
+            <p class="subtitle">Find the perfect surge protection device for your electrical system</p>
+        </header>
+
+        <main class="main-content">
+            <div class="wizard-container">
+                <div class="progress-bar">
+                    <div class="progress-step active" data-step="1">
+                        <span class="step-number">1</span>
+                        <span class="step-label">System Info</span>
+                    </div>
+                    <div class="progress-step" data-step="2">
+                        <span class="step-number">2</span>
+                        <span class="step-label">Preferences</span>
+                    </div>
+                    <div class="progress-step" data-step="3">
+                        <span class="step-number">3</span>
+                        <span class="step-label">Recommendation</span>
+                    </div>
+                </div>
+
+                <form id="spdWizardForm" class="wizard-form">
+                    <!-- Step 1: System Information -->
+                    <div class="form-step active" data-step="1">
+                        <h2>System Information</h2>
+                        <div class="form-grid">
+                            <div class="form-group form-group-full">
+                                <label for="systemVoltage">System Voltage</label>
+                                <select id="systemVoltage" name="systemVoltage" required>
+                                    <option value="">Select system voltage...</option>
+                                    <option value="120 single phase">120V Single Phase</option>
+                                    <option value="120/240 split phase">120/240V Split Phase</option>
+                                    <option value="120/208 3 phase wye">120/208V 3 Phase Wye</option>
+                                    <option value="127/220 3 phase wye">127/220V 3 Phase Wye</option>
+                                    <option value="240 single phase">240V Single Phase</option>
+                                    <option value="220/380 3 phase wye">220/380V 3 Phase Wye</option>
+                                    <option value="240 3 phase delta">240V 3 Phase Delta</option>
+                                    <option value="240/415 3 phase wye">240/415V 3 Phase Wye</option>
+                                    <option value="240 High leg 3 phase">240V High Leg 3 Phase</option>
+                                    <option value="277/480 3 phase wye">277/480V 3 Phase Wye</option>
+                                    <option value="480 3 phase delta">480V 3 Phase Delta</option>
+                                    <option value="347/600 3 phase wye">347/600V 3 Phase Wye</option>
+                                    <option value="600 3 phase delta">600V 3 Phase Delta</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="mcov">MCOV <span style="color: var(--text-secondary); font-size: 0.8rem;">(Optional)</span></label>
+                                <select id="mcov" name="mcov">
+                                    <option value="">Select MCOV (optional)...</option>
+                                    <option value="150">150V</option>
+                                    <option value="180">180V</option>
+                                    <option value="320">320V</option>
+                                    <option value="150/320">150/320V</option>
+                                    <option value="420">420V</option>
+                                    <option value="550">550V</option>
+                                    <option value="600">600V</option>
+                                    <option value="680">680V</option>
+                                    <option value="690">690V</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="maxSurgeCurrentRating">Max Surge Rating <span style="color: var(--text-secondary); font-size: 0.8rem;">(Optional)</span></label>
+                                <select id="maxSurgeCurrentRating" name="maxSurgeCurrentRating">
+                                    <option value="">Select surge rating (optional)...</option>
+                                    <option value="36kA">36kA</option>
+                                    <option value="40kA">40kA</option>
+                                    <option value="50kA">50kA</option>
+                                    <option value="100kA">100kA</option>
+                                    <option value="160kA">160kA</option>
+                                    <option value="200kA">200kA</option>
+                                    <option value="300kA">300kA</option>
+                                    <option value="320kA">320kA</option>
+                                    <option value="400kA">400kA</option>
+                                    <option value="480kA">480kA</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="type">SPD Type <span style="color: var(--text-secondary); font-size: 0.8rem;">(Optional)</span></label>
+                                <select id="type" name="type">
+                                    <option value="">Show all types</option>
+                                    <option value="Type 1">Type 1 only</option>
+                                    <option value="Type 2">Type 2 only</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 2: Protection Requirements -->
+                    <div class="form-step" data-step="2">
+                        <h2>Protection Preferences <span style="font-size: 0.8rem; color: var(--text-secondary); font-weight: normal;">(Optional)</span></h2>
+                        <div class="form-grid">
+                            <div class="form-group form-group-full">
+                                <label>Protection Modes Required</label>
+                                <div class="checkbox-group">
+                                    <label class="checkbox-item">
+                                        <input type="checkbox" name="protectionModes" value="Line to Line">
+                                        <span class="checkmark"></span>
+                                        Line to Line
+                                    </label>
+                                    <label class="checkbox-item">
+                                        <input type="checkbox" name="protectionModes" value="Line to Neutral">
+                                        <span class="checkmark"></span>
+                                        Line to Neutral
+                                    </label>
+                                    <label class="checkbox-item">
+                                        <input type="checkbox" name="protectionModes" value="Line to Ground">
+                                        <span class="checkmark"></span>
+                                        Line to Ground
+                                    </label>
+                                    <label class="checkbox-item">
+                                        <input type="checkbox" name="protectionModes" value="Neutral to Ground">
+                                        <span class="checkmark"></span>
+                                        Neutral to Ground
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="enclosureLevel">Enclosure Level <span style="color: var(--text-secondary); font-size: 0.8rem;">(Optional)</span></label>
+                                <select id="enclosureLevel" name="enclosureLevel">
+                                    <option value="">Select enclosure level (optional)...</option>
+                                    <option value="NEMA 12/4">NEMA 12/4</option>
+                                    <option value="NEMA 12">NEMA 12</option>
+                                    <option value="Polycarbonate NEMA 4X">Polycarbonate NEMA 4X</option>
+                                    <option value="NEMA 4X">NEMA 4X</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group form-group-full">
+                                <label>Voltage Protection Ratings <span style="color: var(--text-secondary); font-size: 0.8rem;">(Optional)</span></label>
+                                <div class="voltage-protection-grid">
+                                    <div class="voltage-protection-item" id="vp-line-to-line" style="display: none;">
+                                        <label for="vpLineToLine">Line to Line (V)</label>
+                                        <select id="vpLineToLine" name="vpLineToLine">
+                                            <option value="">Select voltage...</option>
+                                            <option value="0">0V</option>
+                                            <option value="100">100V</option>
+                                            <option value="200">200V</option>
+                                            <option value="300">300V</option>
+                                            <option value="400">400V</option>
+                                            <option value="500">500V</option>
+                                            <option value="600">600V</option>
+                                            <option value="700">700V</option>
+                                            <option value="800">800V</option>
+                                            <option value="900">900V</option>
+                                            <option value="1000">1000V</option>
+                                            <option value="1100">1100V</option>
+                                            <option value="1200">1200V</option>
+                                            <option value="1300">1300V</option>
+                                            <option value="1400">1400V</option>
+                                            <option value="1500">1500V</option>
+                                            <option value="1600">1600V</option>
+                                            <option value="1700">1700V</option>
+                                            <option value="1800">1800V</option>
+                                            <option value="1900">1900V</option>
+                                            <option value="2000">2000V</option>
+                                            <option value="2100">2100V</option>
+                                            <option value="2200">2200V</option>
+                                            <option value="2300">2300V</option>
+                                            <option value="2400">2400V</option>
+                                            <option value="2500">2500V</option>
+                                            <option value="2600">2600V</option>
+                                            <option value="2700">2700V</option>
+                                            <option value="2800">2800V</option>
+                                            <option value="2900">2900V</option>
+                                            <option value="3000">3000V</option>
+                                            <option value="3100">3100V</option>
+                                            <option value="3200">3200V</option>
+                                            <option value="3300">3300V</option>
+                                            <option value="3400">3400V</option>
+                                        </select>
+                                    </div>
+                                    <div class="voltage-protection-item" id="vp-line-to-neutral" style="display: none;">
+                                        <label for="vpLineToNeutral">Line to Neutral (V)</label>
+                                        <select id="vpLineToNeutral" name="vpLineToNeutral">
+                                            <option value="">Select voltage...</option>
+                                            <option value="0">0V</option>
+                                            <option value="100">100V</option>
+                                            <option value="200">200V</option>
+                                            <option value="300">300V</option>
+                                            <option value="400">400V</option>
+                                            <option value="500">500V</option>
+                                            <option value="600">600V</option>
+                                            <option value="700">700V</option>
+                                            <option value="800">800V</option>
+                                            <option value="900">900V</option>
+                                            <option value="1000">1000V</option>
+                                            <option value="1100">1100V</option>
+                                            <option value="1200">1200V</option>
+                                            <option value="1300">1300V</option>
+                                            <option value="1400">1400V</option>
+                                            <option value="1500">1500V</option>
+                                            <option value="1600">1600V</option>
+                                            <option value="1700">1700V</option>
+                                            <option value="1800">1800V</option>
+                                            <option value="1900">1900V</option>
+                                            <option value="2000">2000V</option>
+                                            <option value="2100">2100V</option>
+                                            <option value="2200">2200V</option>
+                                            <option value="2300">2300V</option>
+                                            <option value="2400">2400V</option>
+                                            <option value="2500">2500V</option>
+                                            <option value="2600">2600V</option>
+                                            <option value="2700">2700V</option>
+                                            <option value="2800">2800V</option>
+                                            <option value="2900">2900V</option>
+                                            <option value="3000">3000V</option>
+                                            <option value="3100">3100V</option>
+                                            <option value="3200">3200V</option>
+                                            <option value="3300">3300V</option>
+                                            <option value="3400">3400V</option>
+                                        </select>
+                                    </div>
+                                    <div class="voltage-protection-item" id="vp-line-to-ground" style="display: none;">
+                                        <label for="vpLineToGround">Line to Ground (V)</label>
+                                        <select id="vpLineToGround" name="vpLineToGround">
+                                            <option value="">Select voltage...</option>
+                                            <option value="0">0V</option>
+                                            <option value="100">100V</option>
+                                            <option value="200">200V</option>
+                                            <option value="300">300V</option>
+                                            <option value="400">400V</option>
+                                            <option value="500">500V</option>
+                                            <option value="600">600V</option>
+                                            <option value="700">700V</option>
+                                            <option value="800">800V</option>
+                                            <option value="900">900V</option>
+                                            <option value="1000">1000V</option>
+                                            <option value="1100">1100V</option>
+                                            <option value="1200">1200V</option>
+                                            <option value="1300">1300V</option>
+                                            <option value="1400">1400V</option>
+                                            <option value="1500">1500V</option>
+                                            <option value="1600">1600V</option>
+                                            <option value="1700">1700V</option>
+                                            <option value="1800">1800V</option>
+                                            <option value="1900">1900V</option>
+                                            <option value="2000">2000V</option>
+                                            <option value="2100">2100V</option>
+                                            <option value="2200">2200V</option>
+                                            <option value="2300">2300V</option>
+                                            <option value="2400">2400V</option>
+                                            <option value="2500">2500V</option>
+                                            <option value="2600">2600V</option>
+                                            <option value="2700">2700V</option>
+                                            <option value="2800">2800V</option>
+                                            <option value="2900">2900V</option>
+                                            <option value="3000">3000V</option>
+                                            <option value="3100">3100V</option>
+                                            <option value="3200">3200V</option>
+                                            <option value="3300">3300V</option>
+                                            <option value="3400">3400V</option>
+                                        </select>
+                                    </div>
+                                    <div class="voltage-protection-item" id="vp-neutral-to-ground" style="display: none;">
+                                        <label for="vpNeutralToGround">Neutral to Ground (V)</label>
+                                        <select id="vpNeutralToGround" name="vpNeutralToGround">
+                                            <option value="">Select voltage...</option>
+                                            <option value="0">0V</option>
+                                            <option value="100">100V</option>
+                                            <option value="200">200V</option>
+                                            <option value="300">300V</option>
+                                            <option value="400">400V</option>
+                                            <option value="500">500V</option>
+                                            <option value="600">600V</option>
+                                            <option value="700">700V</option>
+                                            <option value="800">800V</option>
+                                            <option value="900">900V</option>
+                                            <option value="1000">1000V</option>
+                                            <option value="1100">1100V</option>
+                                            <option value="1200">1200V</option>
+                                            <option value="1300">1300V</option>
+                                            <option value="1400">1400V</option>
+                                            <option value="1500">1500V</option>
+                                            <option value="1600">1600V</option>
+                                            <option value="1700">1700V</option>
+                                            <option value="1800">1800V</option>
+                                            <option value="1900">1900V</option>
+                                            <option value="2000">2000V</option>
+                                            <option value="2100">2100V</option>
+                                            <option value="2200">2200V</option>
+                                            <option value="2300">2300V</option>
+                                            <option value="2400">2400V</option>
+                                            <option value="2500">2500V</option>
+                                            <option value="2600">2600V</option>
+                                            <option value="2700">2700V</option>
+                                            <option value="2800">2800V</option>
+                                            <option value="2900">2900V</option>
+                                            <option value="3000">3000V</option>
+                                            <option value="3100">3100V</option>
+                                            <option value="3200">3200V</option>
+                                            <option value="3300">3300V</option>
+                                            <option value="3400">3400V</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 3: Recommendation -->
+                    <div class="form-step" data-step="3">
+                        <h2>SPD Recommendation</h2>
+                        <div id="recommendationResult" class="recommendation-result">
+                            <!-- Results will be populated by JavaScript -->
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="button" id="prevBtn" class="btn btn-secondary" style="display: none;">
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </button>
+                        <button type="button" id="nextBtn" class="btn btn-primary">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </button>
+                        <button type="button" id="restartBtn" class="btn btn-outline" style="display: none;">
+                            <i class="fas fa-redo"></i> Start Over
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2024 SPD Wizard. Professional surge protection solutions.</p>
+        </footer>
+    </div>
+
+    <!-- SPD Terms Modal -->
+    <div id="spdTermsModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>SPD Terms and Definitions</h2>
+                <button class="modal-close" id="modalClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="terms-grid">
+                    <div class="term-item">
+                        <div class="term-name">Nominal voltage UN</div>
+                        <div class="term-definition">The nominal voltage of the system to be protected, for AC voltages it is indicated as RMS value.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">MCOV</div>
+                        <div class="term-definition">The maximum continuous supply voltage that can be applied to the SPD during its normal operation.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Nominal current IL</div>
+                        <div class="term-definition">The highest value that the SPD can conduct continuously.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Nominal discharge current In</div>
+                        <div class="term-definition">The maximum peak value of 8/20μs surge current that can be conducted repeatedly by the SPD.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Max. discharge current Imax</div>
+                        <div class="term-definition">The maximum peak value of 8/20μs that the SPD can safely discharge.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Lightning impulse current Iimp</div>
+                        <div class="term-definition">A 10/350μs laboratory generated simulated test waveform intended to simulate the surge current associated with a direct lightning strike.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Voltage protection level Up</div>
+                        <div class="term-definition">The value to which the SPD limits voltage as it is called upon to conduct a specified level of surge current.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Follow current extinguishing capability If</div>
+                        <div class="term-definition">The maximum rms "follow current" (brought on by surge current discharge) that the SPD can extinguish at UC.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Short-circuit withstand capability</div>
+                        <div class="term-definition">The maximum short-circuit current the SPD can withstand.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Combined impulse Uoc</div>
+                        <div class="term-definition">A laboratory generated (Open Circuit 1.2/50μs, Close Circuit 8/20μs) test impulse used to test SPDs to IEC 61643-1 Class III parameters.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Operating temperature range Tu (Nominal temperature range)</div>
+                        <div class="term-definition">The temperature range where the SPD normally operates.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Response time tA</div>
+                        <div class="term-definition">The time it takes a SPD to begin conducting surge current upon being subjected to its activation voltage level.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Bandwidth fG</div>
+                        <div class="term-definition">The amount of data that can be passed along a communications channel during a given time period.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Data transmission speed VS</div>
+                        <div class="term-definition">Data transfer rate indicating the number of bytes transmitted per second.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Return loss aR</div>
+                        <div class="term-definition">The ratio of the power reflected back from the line to the power transmitted into the line.</div>
+                    </div>
+                    <div class="term-item">
+                        <div class="term-name">Insertion loss aE</div>
+                        <div class="term-definition">The ratio of the power received vs to the power transmitted in the line.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

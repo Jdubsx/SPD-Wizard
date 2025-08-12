@@ -1,0 +1,184 @@
+System_Voltage_Configuration,MCOV,Max_Surge_Current_Rating,VP_Line_to_Line,VP_Line_to_Neutral,VP_Line_to_Ground,VP_Neutral_to_Ground,Enclosure_Protection_Level,SPD_Name_Product_Number,SPD_Type,Description,Product_Link,Data_Sheet
+120/240V Split Phase,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-120T,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+120/240V Split Phase,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-120T,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+120/240V Split Phase,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-120T,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-120W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-120W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-120W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-127W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-127W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-127W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-220W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-220W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-220W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,160kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-080-240D,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,320kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-160-220W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,480kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-240-240D,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-240W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-240W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-240W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,160kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-080-240H,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,320kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-160-240H,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,480kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-240-240H,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-480W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-480W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-480W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,160kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-080-480D,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,320kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-160-480D,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,480kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-240-480D,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,160kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-080-600W,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,320kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-160-600W,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,480kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-240-600W,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,160kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-080-600D,1,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,320kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-160-600D,1,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,480kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-240-600D,1,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+120/240V Split Phase,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-120T,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+120/240V Split Phase,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-120T,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+120/240V Split Phase,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-120T,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-120W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-120W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-120W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-080-127W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,320kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-160-127W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,480kA,1000V,700V,700V,700V,NEMA 12/4,ADSi-240-127W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-220W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-220W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-220W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,160kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-080-240D,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,320kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-160-220W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,480kA,1800V,N/A,1000V,N/A,NEMA 12/4,ADSi-240-240D,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-240W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-240W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-240W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,160kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-080-240H,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,320kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-160-240H,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,480kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12/4,ADSi-240-240H,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-080-480W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,320kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-160-480W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,480kA,1800V,1000V,1000V,1000V,NEMA 12/4,ADSi-240-480W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,160kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-080-480D,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,320kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-160-480D,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+277/480V 3 Phase Delta,600 Vac,480kA,3000V,N/A,1800V,N/A,NEMA 12/4,ADSi-240-480D,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,160kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-080-600W,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,320kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-160-600W,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,480kA,3000V,1800V,1800V,1800V,NEMA 12/4,ADSi-240-600W,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,160kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-080-600D,2,,https://shopalltec.com/adsi-080/?searchid=6544&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-080%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,320kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-160-600D,2,,https://shopalltec.com/adsi-160/?searchid=6545&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-160%20Datasheet.pdf
+600V 3 Phase Delta,680 Vac,480kA,3400V,N/A,2100V,N/A,NEMA 12/4,ADSi-240-600D,2,,https://shopalltec.com/adsi-240/?searchid=6546&search_query=adsi,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSi-240%20Datasheet.pdf
+120/240V Split Phase,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12,ADSc-080-120T,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12,ADSc-080-120W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,160kA,1000V,700V,700V,700V,NEMA 12,ADSc-080-127W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-080-220W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,160kA,1800V,N/A,1000V,N/A,NEMA 12,ADSc-080-240D,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-080-240W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,160kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12,ADSc-080-240H,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,160kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-080-480W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+480V 3 Phase Delta,600 Vac,160kA,3000V,N/A,1800V,N/A,NEMA 12,ADSc-080-480D,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,160kA,3000V,1800V,1800V,1800V,NEMA 12,ADSc-080-600W,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+600V 3 Phase Delta,600 Vac,160kA,3000V,N/A,2100V,N/A,NEMA 12,ADSc-080-600D,2,,https://shopalltec.com/adsc-080/?searchid=6556&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-080%20Datasheet.pdf
+120/240V Split Phase,150 Vac,200kA,1000V,700V,700V,700V,NEMA 12,ADSc-100-120T,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,200kA,1000V,700V,700V,700V,NEMA 12,ADSc-100-120W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,200kA,1000V,700V,700V,700V,NEMA 12,ADSc-100-127W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,200kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-100-220W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,200kA,1800V,N/A,1000V,N/A,NEMA 12,ADSc-100-240D,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,200kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-100-240W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,200kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12,ADSc-100-240H,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,200kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-100-480W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+480V 3 Phase Delta,600 Vac,200kA,3000V,N/A,1800V,N/A,NEMA 12,ADSc-100-480D,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,200kA,3000V,1800V,1800V,1800V,NEMA 12,ADSc-100-600W,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+600V 3 Phase Delta,600 Vac,200kA,3000V,N/A,2100V,N/A,NEMA 12,ADSc-100-600D,2,,https://shopalltec.com/adsc-100/?searchid=6557&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-100%20Datasheet.pdf
+120/240V Split Phase,150 Vac,400kA,1000V,700V,700V,700V,NEMA 12,ADSc-200-120T,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+120/208V 3 Phase Wye,150 Vac,400kA,1000V,700V,700V,700V,NEMA 12,ADSc-200-120W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+127/220V 3 Phase Wye,150 Vac,400kA,1000V,700V,700V,700V,NEMA 12,ADSc-200-127W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+220/380V 3 Phase Wye,320 Vac,400kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-200-220W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+240V 3 Phase Delta,320 Vac,400kA,1800V,N/A,1000V,N/A,NEMA 12,ADSc-200-240D,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+240/415V 3 Phase Wye,320 Vac,400kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-200-240W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+240V High Leg 3 Phase,150/320 Vac,400kA,1000/1800V,700/1000V,700/1000V,1000V,NEMA 12,ADSc-200-240H,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+277/480V 3 Phase Wye,320 Vac,400kA,1800V,1000V,1000V,1000V,NEMA 12,ADSc-200-480W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+480V 3 Phase Delta,600 Vac,400kA,3000V,N/A,1800V,N/A,NEMA 12,ADSc-200-480D,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+347/600V 3 Phase Wye,600 Vac,400kA,3000V,1800V,1800V,1800V,NEMA 12,ADSc-200-600W,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+600V 3 Phase Delta,600 Vac,400kA,3000V,N/A,2100V,N/A,NEMA 12,ADSc-200-600D,2,,https://shopalltec.com/adsc-200/?searchid=6558&search_query=adsc,https://store-5mbkp8w1z3.mybigcommerce.com/content/ADSc-200%20Datasheet.pdf
+120V Single Phase,180 Vac,50kA,N/A,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-050-120S,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+120/240V Split Phase,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-050-120T,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-050-120W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-050-227W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+240V Single Phase,320 Vac,50kA,N/A,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-050-240S,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-050-220W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+240V 3 Phase Delta,320 Vac,50kA,1200V,N/A,800V,N/A,Polycarbonate NEMA 4X,ADSx-050-240D,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-050-240W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-050-480W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+480V 3 Phase Delta,550 Vac,50kA,2500V,N/A,1200V,N/A,Polycarbonate NEMA 4X,ADSx-050-480D,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,50kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx-050-600W,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+600V 3 Phase Delta,690 Vac,50kA,2500V,N/A,1500V,N/A,Polycarbonate NEMA 4X,ADSx-050-600D,1,,https://shopalltec.com/adsx2F-050/?searchid=6603&search_query=adsx,
+120V Single Phase,180 Vac,100kA,N/A,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-100-120S,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+120/240V Split Phase,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-100-120T,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-100-120W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx-100-227W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+240V Single Phase,320 Vac,100kA,N/A,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-100-240S,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-100-220W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+240V 3 Phase Delta,320 Vac,100kA,1200V,N/A,800V,N/A,Polycarbonate NEMA 4X,ADSx-100-240D,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-100-240W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-100-480W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+480V 3 Phase Delta,550 Vac,100kA,2500V,N/A,1200V,N/A,Polycarbonate NEMA 4X,ADSx-100-480D,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,100kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx-100-600W,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+600V 3 Phase Delta,690 Vac,100kA,2500V,N/A,1500V,N/A,Polycarbonate NEMA 4X,ADSx-100-600D,1,,https://shopalltec.com/adsx-100/?searchid=6604&search_query=adsx,
+120V Single Phase,180 Vac,200kA,N/A,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-200-120S,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+120/240V Split Phase,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-200-120T,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-200-120W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-200-227W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+240V Single Phase,320 Vac,200kA,N/A,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-200-240S,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-200-220W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+240V 3 Phase Delta,320 Vac,200kA,1200V,N/A,800V,N/A,Polycarbonate NEMA 4X,ADSx-200-240D,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-200-240W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-200-480W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+480V 3 Phase Delta,550 Vac,200kA,2500V,N/A,1200V,N/A,Polycarbonate NEMA 4X,ADSx-200-480D,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,200kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx-200-600W,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+600V 3 Phase Delta,690 Vac,200kA,2500V,N/A,1500V,N/A,Polycarbonate NEMA 4X,ADSx-200-600D,1,,https://shopalltec.com/adsx-200/?searchid=6605&search_query=adsx,
+120V Single Phase,180 Vac,300kA,N/A,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-300-120S,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+120/240V Split Phase,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-300-120T,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-300-120W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx-300-227W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+240V Single Phase,320 Vac,300kA,N/A,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-300-240S,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-300-220W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+240V 3 Phase Delta,320 Vac,300kA,1200V,N/A,800V,N/A,Polycarbonate NEMA 4X,ADSx-300-240D,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-300-240W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx-300-480W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+480V 3 Phase Delta,550 Vac,300kA,2500V,N/A,1200V,N/A,Polycarbonate NEMA 4X,ADSx-300-480D,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,300kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx-300-600W,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+600V 3 Phase Delta,690 Vac,300kA,2500V,N/A,1500V,N/A,Polycarbonate NEMA 4X,ADSx-300-600D,1,,https://shopalltec.com/adsx-300/?searchid=6606&search_query=adsx,
+120V Single Phase,180 Vac,50kA,N/A,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-050-120S,2,,,
+120/240V Split Phase,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-050-120T,2,,,
+120/208V 3 Phase Wye,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-050-120W,2,,,
+127/220V 3 Phase Wye,180 Vac,50kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-050-227W,2,,,
+240V Single Phase,320 Vac,50kA,N/A,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-050-240S,2,,,
+220/380V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-050-220W,2,,,
+240/415V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-050-240W,2,,,
+277/480V 3 Phase Wye,320 Vac,50kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-050-480W,2,,,
+347/600 3 Phase Wye,420 Vac,50kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx2F-050-600W,2,,,
+120V Single Phase,180 Vac,100kA,N/A,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-100-120S,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+120/240V Split Phase,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-100-120T,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-100-120W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,100kA,1500V,900V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-100-227W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+240V Single Phase,320 Vac,100kA,N/A,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-100-240S,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-100-220W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-100-240W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,100kA,2500V,1500V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-100-480W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,100kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx2F-100-600W,2,,https://shopalltec.com/adsx2F-100/?searchid=6613&search_query=adsx,
+120V Single Phase,180 Vac,200kA,N/A,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-200-120S,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+120/240V Split Phase,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-200-120T,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-200-120W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,200kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-200-227W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+240V Single Phase,320 Vac,200kA,N/A,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-200-240S,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-200-220W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-200-240W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,200kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-200-480W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,200kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx2F-200-600W,2,,https://shopalltec.com/adsx2F-200/?searchid=6614&search_query=adsx,
+120V Single Phase,180 Vac,300kA,N/A,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-300-120S,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+120/240V Split Phase,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-300-120T,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+120/208V 3 Phase Wye,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-300-120W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+127/220V 3 Phase Wye,180 Vac,300kA,1200V,800V,800V,700V,Polycarbonate NEMA 4X,ADSx2F-300-227W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+240V Single Phase,320 Vac,300kA,N/A,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-300-240S,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+220/380V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-300-220W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+240/415V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-300-240W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+277/480V 3 Phase Wye,320 Vac,300kA,2000V,1200V,1200V,1200V,Polycarbonate NEMA 4X,ADSx2F-300-480W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
+347/600 3 Phase Wye,420 Vac,300kA,2500V,1500V,1500V,1500V,Polycarbonate NEMA 4X,ADSx2F-300-600W,2,,https://shopalltec.com/adsx2F-300/?searchid=6615&search_query=adsx,
