@@ -3039,6 +3039,9 @@ class SPDWizard {
         document.getElementById('prevBtn').addEventListener('click', () => this.prevStep());
         document.getElementById('restartBtn').addEventListener('click', () => this.restart());
         
+        // Logo click to return to start
+        document.getElementById('logoClick').addEventListener('click', () => this.restart());
+        
         // Modal functionality
         document.getElementById('infoBtn').addEventListener('click', () => this.openModal());
         document.getElementById('modalClose').addEventListener('click', () => this.closeModal());
